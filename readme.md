@@ -1,8 +1,11 @@
-# PHP-Based RESTFul services for Employee Directory Sample App#
+## PHP-Based RESTFul services for Employee Directory Sample App ##
 
 Built with the [Slim framework](http://www.slimframework.com/).
 
 The client application is available in [this repository](https://github.com/ccoenraets/directory-backbone-bootstrap)
+
+Refer to [this blog post](http://coenraets.org/blog/2013/04/sample-application-with-backbone-js-and-twitter-bootstrap-updated-and-improved/) for more information about the application.
+
 
 ## Setting Up ##
 
